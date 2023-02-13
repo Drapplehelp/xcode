@@ -1,93 +1,92 @@
-[
-      {
-         "id":1,
-         "name":"Jose",
-         "lenguajes":"Swift",
-         "nickname":"@MZTech16",
-         "url":"https://twitter.com/MZTech16",
-         "Linkeding":"https://www.linkedin.com/in/jose-lorenzo-fernandez-221aa5161/",
-         "descripcion":"soy Apple developer ios",
-         "mute":"Jose Lorenzo F",
-         "Server":"Lenguajes:"
+[{
+		"id": 1,
+		"name": "Jose",
+		"lenguajes": "Swift",
+		"nickname": "@MZTech16",
+		"url": "https://twitter.com/MZTech16",
+		"Linkeding": "https://www.linkedin.com/in/jose-lorenzo-fernandez-221aa5161/",
+		"descripcion": "soy Apple developer ios",
+		"mute": "Jose Lorenzo F",
+		"Server": "Lenguajes:"
 
-      },
-      {
-         "id":2,
-         "name":"Ruben",
-         "lenguajes":"Swift",
-         "nickname":"@RubenF",
-         "url":"https://twitter.com/Pluginboy84",
-         "Linkeding":"https://www.linkedin.com/in/ruben-fernandez/",
-         "descripcion":"Rubén es un ingeniero y desarrollador con experiencia creando aplicaciones para dispositivos iOS y soluciones para otros sistemas. Actualmente tiene multiples aplicaciones publicadas en la App Store como Precio Luz España, InfoDGT o The Other Contacts, entras otras.",
-         "mute":"Ruben",
-         "Server":"Lenguajes:"
-      },
-      {
-         "id":3,
-         "name":"Guaica",
-         "lenguajes":"Swift, objetive c, kotlin",
-         "nickname":"@Guica",
-         "url":"https://twitter.com/Guaica14",
-         "Linkeding":"https://www.linkedin.com/in/guaica/",
-         "descripcion":"Nací en 1986 en Barcelona. De padres y abuelos andaluces.Mi infancia estuvo bien, no me puedo quejar, fui un poco autista y de difícil trato con la gente que me rodeaba (Sobre todo los de mi edad).Cuando cumplía los 11-12 años conocí a una persona que me enseñó a reírme de mi mismo y ahí cambió radicalmente mi personalidad.",
-         "mute":"Guaica",
-         "Server":"Lenguajes:"
-      },
-      {
-         "id":4,
-         "name":"Mhergon",
-         "lenguajes":"Swift,objetive c",
-         "nickname":"@Marc",
-         "url":"https://twitter.com/mhergon",
-         "Linkeding":"https://www.linkedin.com/in/marchervera/",
-         "descripcion":"- Más de 14 años de experiencia en Objective-C, específicamente en el desarrollo de iOS.- Swift y SwiftUI desde que se introdujo- Instructor de Objective-C / Swift / iOS - Más de 5 capacitaciones brindadas (Anuntis, ONCE, Certio y muchos otros)SwiftUI, Swift, Objective-C, Vapor, iOS, Cocoa, Cocoa Touch, Realm, CoreData, macOS, AWS y muchos otros",
-         "mute":"Marc",
-        "Server":"Lenguajes:"
-      },
-      {
-         "id":5,
-         "name":"Victor",
-         "lenguajes":"Swift",
-         "nickname":"@Pluginboy84",
-         "url":"https://twitter.com/Pluginboy84",
-         "Linkeding":"https://www.linkedin.com/in/victor-capilla-borrego/",
-         "descripcion":"Desarrollador en tecnologías Apple, con mas de 10 años de experiencia en el mundo del software. Preparado para cualquier reto, dispuesto a mejorar y aprender cada día. Nunca me rindo y siempre merece la pena el esfuerzo de hacer lo que realmente quieres.",
-         "mute":"Pluginboy84",
-         "Server":"Lenguajes:"
-      },
-      {
-         "id":6,
-         "name":"Brais",
-         "lenguajes":"Swift,Kotling,Python",
-         "nickname":"@Mouredev",
-         "url":"https://twitter.com/MoureDev",
-         "Linkeding":"https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABbSaXUBxPGt0W3qMI2fatx6k91T7g-NuOQ&keywords=brais%20moure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=c80799d3-6ba1-4581-90dd-d4a783511131&sid=.0t",
-         "descripcion":"Soy ingeniero de software desde hace más de 12 años. Actualmente trabajo como freelance full-stack developer iOS y Android. Además creo contenido formativo sobre programación y tecnología en redes. Aquí podrás encontrar todos mis enlaces de interés. ¡Bienvenid@!",
-         "mute":"Moure",
-         "Server":"Lenguajes:"
-      },
-      
-      {
-         "id":7,
-         "name":"Josa",
-         "lenguajes":"Swift",
-         "nickname":"@Josavicente",
-         "url":"https://twitter.com/josavicentedev",
-         "Linkeding":"https://www.linkedin.com/in/jvicenpe/",
-         "descripcion":"Llevo desde los 14 años programando, empecé con Turbo Pascal. Ahora, con 42 años considero que saber programar el stack de moda no es suficiente. Unas buenas bases, conocimientos de arquitectura y testing, unido a unas soft skills fuertes para trabajar en equipo son esenciales.",
-         "mute":"Josa",
-         "Server":"Lenguajes:"
-      },
-       {
-         "id":8,
-         "name":"Ruben",
-         "lenguajes":"Swift",
-         "nickname":"@RubenGarcia",
-         "url":"https://twitter.com/josavicentedev",
-         "Linkeding":"https://www.linkedin.com/in/rgarciah/",
-         "descripcion":"Soy un desarrollador con un gran interés en la tecnología y la programación desde siempre. Me encanta descubrir nuevas formas de hacer las cosas y dedico mucho de mi tiempo libre a investigar por mi cuenta. Aunque mi trayectoria profesional he ido relacionada con desarrollo Backend, DevOps y Frontend siempre investigo nuevos campos muy variados y de mis campos profundizo siempre en como hacer las cosas mejor y más rápido. No entendería el desarrollo sin ese componente de investigación tan apasionante que tiene."
-         "Server":"Lenguajes:"
-      }
-      
-      
-  ]
+	},
+	{
+		"id": 2,
+		"name": "Ruben",
+		"lenguajes": "Swift",
+		"nickname": "@RubenF",
+		"url": "https://twitter.com/Pluginboy84",
+		"Linkeding": "https://www.linkedin.com/in/ruben-fernandez/",
+		"descripcion": "Rubén es un ingeniero y desarrollador con experiencia creando aplicaciones para dispositivos iOS y soluciones para otros sistemas. Actualmente tiene multiples aplicaciones publicadas en la App Store como Precio Luz España, InfoDGT o The Other Contacts, entras otras.",
+		"mute": "Ruben",
+		"Server": "Lenguajes:"
+	},
+	{
+		"id": 3,
+		"name": "Guaica",
+		"lenguajes": "Swift, objetive c, kotlin",
+		"nickname": "@Guica",
+		"url": "https://twitter.com/Guaica14",
+		"Linkeding": "https://www.linkedin.com/in/guaica/",
+		"descripcion": "Nací en 1986 en Barcelona. De padres y abuelos andaluces.Mi infancia estuvo bien, no me puedo quejar, fui un poco autista y de difícil trato con la gente que me rodeaba (Sobre todo los de mi edad).Cuando cumplía los 11-12 años conocí a una persona que me enseñó a reírme de mi mismo y ahí cambió radicalmente mi personalidad.",
+		"mute": "Guaica",
+		"Server": "Lenguajes:"
+	},
+	{
+		"id": 4,
+		"name": "Mhergon",
+		"lenguajes": "Swift,objetive c",
+		"nickname": "@Marc",
+		"url": "https://twitter.com/mhergon",
+		"Linkeding": "https://www.linkedin.com/in/marchervera/",
+		"descripcion": "- Más de 14 años de experiencia en Objective-C, específicamente en el desarrollo de iOS.- Swift y SwiftUI desde que se introdujo- Instructor de Objective-C / Swift / iOS - Más de 5 capacitaciones brindadas (Anuntis, ONCE, Certio y muchos otros)SwiftUI, Swift, Objective-C, Vapor, iOS, Cocoa, Cocoa Touch, Realm, CoreData, macOS, AWS y muchos otros",
+		"mute": "Marc",
+		"Server": "Lenguajes:"
+	},
+	{
+		"id": 5,
+		"name": "Victor",
+		"lenguajes": "Swift",
+		"nickname": "@Pluginboy84",
+		"url": "https://twitter.com/Pluginboy84",
+		"Linkeding": "https://www.linkedin.com/in/victor-capilla-borrego/",
+		"descripcion": "Desarrollador en tecnologías Apple, con mas de 10 años de experiencia en el mundo del software. Preparado para cualquier reto, dispuesto a mejorar y aprender cada día. Nunca me rindo y siempre merece la pena el esfuerzo de hacer lo que realmente quieres.",
+		"mute": "Pluginboy84",
+		"Server": "Lenguajes:"
+	},
+	{
+		"id": 6,
+		"name": "Brais",
+		"lenguajes": "Swift,Kotling,Python",
+		"nickname": "@Mouredev",
+		"url": "https://twitter.com/MoureDev",
+		"Linkeding": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABbSaXUBxPGt0W3qMI2fatx6k91T7g-NuOQ&keywords=brais%20moure&origin=RICH_QUERY_SUGGESTION&position=1&searchId=c80799d3-6ba1-4581-90dd-d4a783511131&sid=.0t",
+		"descripcion": "Soy ingeniero de software desde hace más de 12 años. Actualmente trabajo como freelance full-stack developer iOS y Android. Además creo contenido formativo sobre programación y tecnología en redes. Aquí podrás encontrar todos mis enlaces de interés. ¡Bienvenid@!",
+		"mute": "Moure",
+		"Server": "Lenguajes:"
+	},
+
+	{
+		"id": 7,
+		"name": "Josa",
+		"lenguajes": "Swift",
+		"nickname": "@Josavicente",
+		"url": "https://twitter.com/josavicentedev",
+		"Linkeding": "https://www.linkedin.com/in/jvicenpe/",
+		"descripcion": "Llevo desde los 14 años programando, empecé con Turbo Pascal. Ahora, con 42 años considero que saber programar el stack de moda no es suficiente. Unas buenas bases, conocimientos de arquitectura y testing, unido a unas soft skills fuertes para trabajar en equipo son esenciales.",
+		"mute": "Josa",
+		"Server": "Lenguajes:"
+	},
+	{
+		"id": 8,
+		"name": "Ruben",
+		"lenguajes": "Swift",
+		"nickname": "@RubenGarcia",
+		"url": "https://twitter.com/josavicentedev",
+		"Linkeding": "https://www.linkedin.com/in/rgarciah/",
+		"descripcion": "Soy un desarrollador con un gran interés en la tecnología y la programación desde siempre Me encanta descubrir nuevas formas de hacer las cosas y dedico mucho de mi tiempo libre a investigar por mi cuenta Aunque mi trayectoria profesional he ido relacionada con desarrollo Backend  DevOps y Frontend siempre investigo nuevos campos muy variados y de mis campos profundizo siempre en como hacer las cosas mejor y más rápido No entendería el desarrollo sin ese componente de investigación tan apasionante que tiene",
+		"Server": "Lenguajes:"
+	}
+
+
+]
