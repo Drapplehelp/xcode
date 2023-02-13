@@ -65,5 +65,20 @@
          "descripcion":"Soy ingeniero de software desde hace más de 12 años. Actualmente trabajo como freelance full-stack developer iOS y Android. Además creo contenido formativo sobre programación y tecnología en redes. Aquí podrás encontrar todos mis enlaces de interés. ¡Bienvenid@!",
          "mute":"Moure",
          "Server":"Lenguajes:"
+      },
+      
+      {
+         "id":7,
+         "name":"Josa",
+         "lenguajes":"Swift",
+         "nickname":"@Josavicente",
+         "url":"https://twitter.com/josavicentedev",
+         "Linkeding":"https://www.linkedin.com/in/jvicenpe/",
+         "descripcion":"Llevo desde los 14 años programando, empecé con Turbo Pascal. Ahora, con 42 años considero que saber programar el stack de moda no es suficiente. Unas buenas bases, conocimientos de arquitectura y testing, unido a unas soft skills fuertes para trabajar en equipo son esenciales.",
+         "mute":"Josa",
+         "Server":"Lenguajes:"
+      
+      x
       }
+      
   ]
