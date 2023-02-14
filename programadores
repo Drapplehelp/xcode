@@ -87,7 +87,17 @@
 		"descripcion": "Soy un desarrollador con un gran interés en la tecnología y la programación desde siempre Me encanta descubrir nuevas formas de hacer las cosas y dedico mucho de mi tiempo libre a investigar por mi cuenta Aunque mi trayectoria profesional he ido relacionada con desarrollo Backend  DevOps y Frontend siempre investigo nuevos campos muy variados y de mis campos profundizo siempre en como hacer las cosas mejor y más rápido No entendería el desarrollo sin ese componente de investigación tan apasionante que tiene",
     "mute": "Ruben",
 		"Server": "Lenguajes:"
+	},
+{
+		"id": 9,
+		"name": "Arturo",
+		"lenguajes": "Swift",
+		"nickname": "@arturorivasa",
+		"url": "https://twitter.com/josavicentedev",
+		"Linkeding": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAcc3uMB-PjWyEf9l_jt7p0tVcNLSjU3Uv4&keywords=arturo%20rivas%20arias&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=1196f94d-fc29-4180-b416-271b71b58042&sid=yzd",
+		"descripcion": "Soy un desarrollador con un gran interés en la tecnología y la programación desde siempre Me encanta descubrir nuevas formas de hacer las cosas y dedico mucho de mi tiempo libre a investigar por mi cuenta Aunque mi trayectoria profesional he ido relacionada con desarrollo Backend  DevOps y Frontend siempre investigo nuevos campos muy variados y de mis campos profundizo siempre en como hacer las cosas mejor y más rápido No entendería el desarrollo sin ese componente de investigación tan apasionante que tiene",
+    "mute": "Arturo",
+		"Server": "Lenguajes:"
 	}
-
 
 ]
