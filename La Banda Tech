@@ -1,6 +1,13 @@
 [{
-"Titulo": "La Banda Tech en RIGUROSO DIRECTO",
-"Descripcion": "Hoy hablaremos de....",
-"Link":"bc8D2S-mesY",
-"Fecha": "12/02/2023"
-}]
+		"Titulo": "La Banda Tech en RIGUROSO DIRECTO",
+		"Descripcion": "Hoy hablaremos de....",
+		"Link": "bc8D2S-mesY",
+		"Fecha": "12/02/2023"
+	},
+	{
+		"Titulo": "Hablando de Tecnología con Judit Güell",
+		"Descripcion": "Hoy tendremos con nosotros a Judit Güell, creadora de contenido y con la que charlaremos sobre Apple y creación de contenido!",
+		"Link": "09nOgqrSv1g",
+		"Fecha": "08/02/2023"
+	}
+]
